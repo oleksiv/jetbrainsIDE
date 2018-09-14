@@ -1,14 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="console3" type="PHP" />
-      <mapping pattern="console" type="PHP" />
-      <mapping pattern="111" type="PLAIN_TEXT" />
-      <mapping pattern="console2" type="PLAIN_TEXT" />
-      <mapping pattern=".env.example" type="PLAIN_TEXT" />
-      <mapping ext="jks" type="PLAIN_TEXT" />
-      <mapping ext="jwlibrary" type="PLAIN_TEXT" />
-      <mapping pattern="index" type="TypeScript" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
