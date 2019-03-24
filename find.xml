@@ -20,5 +20,6 @@
     <mask>*.scss</mask>
     <mask>*.yml</mask>
     <mask>*.yaml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
